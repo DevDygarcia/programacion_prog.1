@@ -36,7 +36,7 @@ document.getElementById("btn1").addEventListener("click", function(e) {
      
     const edad = 2024 - fecha;
     
-        document.getElementById("resultado2").innerText=`El área del triángulo es: ${nombre} ${apellido} ${edad}`;
+        document.getElementById("resultado2").innerText=`El usuario es: ${nombre} ${apellido} ${edad}`;
  
     console.log(nombre + apellido + edad)
 
